@@ -65,6 +65,11 @@ width: auto;
 border: 1px;
 }
 
+img.square {
+width: 300px;
+object-fit: cover;
+}
+
 p {
 padding-bottom: 20px;
 }
